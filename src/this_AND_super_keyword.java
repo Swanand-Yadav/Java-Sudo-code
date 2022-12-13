@@ -20,3 +20,5 @@ public class this_AND_super_keyword extends Parent
 		ts.m1();	
 	}
 }
+
+// Note: These both keyword we never use in static method/area because this is not object related 
